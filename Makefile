@@ -4,7 +4,7 @@ REPO_URL := $(shell git config --get remote.origin.url)
 
 APP_NAME = 'Kuka Tira Piedras'
 
-CNAME = 
+CNAME = 'Tirapiedras.io'
 
 
 publish:
